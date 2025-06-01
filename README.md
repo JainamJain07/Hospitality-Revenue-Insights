@@ -5,6 +5,7 @@ Power BI project analyzing hotel KPIs and booking trends.
 # 🏨 Hospitality Domain – Revenue Insights (Power BI)
 
 Power BI project for analyzing hotel revenue, occupancy & platform trends using Excel & DAX.
+
 A complete business intelligence project focusing on the hospitality industry.  
 This Power BI dashboard helps analyze performance across hotels, booking platforms, cities, and key business KPIs.
 
