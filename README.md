@@ -48,7 +48,7 @@ This Power BI dashboard helps analyze performance across hotels, booking platfor
 ## 📄 Files in This Repository
 
 - `Hospitality_Dashboard.pdf` → Exported dashboard (downloadable)  
-  👉 [Click here to download the PDF](https://github.com/JainamJain07/Hospitality-Revenue-Insights/blob/main/Hospitality%20Domain%20-%20Revenue%20Insights.pdf)  
+  👉 [Click here to view the PDF](https://github.com/JainamJain07/Hospitality-Revenue-Insights/blob/main/Hospitality%20Domain%20-%20Revenue%20Insights.pdf)  
 - `Hospitality_Dashboard.pbix` → Power BI source file  
   ⚠️ *Note: GitHub can't preview .pbix files. Please download to open in Power BI Desktop.*  
 - Live Dashboard 👉 [View on Power BI](https://app.powerbi.com/view?r=eyJrIjoiYmYxYWVlMzgtODc2NC00ZWY1LTkyMmItMGQ1MzE4YmJmNzdiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
